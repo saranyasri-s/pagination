@@ -1,0 +1,10 @@
+.items {
+  display: flex;
+  margin: 1rem;
+  flex-flow: column;
+}
+.items div {
+  border: 2px solid blue;
+  border-radius: 5px;
+  padding: 10px;
+}
